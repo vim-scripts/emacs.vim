@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=63
+
+  This colorscheme implements colors that let Vim look just a little like Emacs.
+  It is not perfect in several respects: For one Emacs has very different categories for its syntax highlighting. Many more, often, which tends to let your screen light up like a christmas tree sometimes. I can't reproduce that without changing the syntax files, and I don't want that. The scheme tries to look like Emacs, but I only really checked for C++. The most important thing is the color of comments, and these are right. The other aspect is the suitability of the script for terminal based Vims - I didn't check, it's for GVim.
+
